@@ -6,5 +6,10 @@
 ![Calculadora](img/foto1.png "Calculadora")
 
 # script js
-## se implementa la función de botones o los numeros
+## se implementa la función de botones o los numeros.
 ![Calculadora](img/foto2.png "Calculadora")
+
+
+# Agregado css
+## Se importora el estilo y la parte grafica, tecnicamente la estructura.
+![Calculadora](img/foto3.png "Calculadora")
