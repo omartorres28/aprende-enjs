@@ -22,6 +22,8 @@
 
 ![Calculadora](img/foto3.png "Calculadora")
 
+
+
 # EJERCICIO 2 (MENU)
 
 ### se crea principalmente las carpetas en donde se va a almacenar el codigo, se busca ionicons en donde se va a buscar los simbolos que se implementaran en cada una de las frases del menu.
@@ -42,4 +44,19 @@
 ### Se usa para mapear todas clases que tengamos lo cual hace que se activen las acciones que se proponen en style css tales como los elementos que estan en la barra de navegacion y activa los textos y para que cada elemento sirva se inserta las constante list.
 ![Menu](img/menu3.png "Menu")
 
-# EJERCICIO 3
+
+
+# EJERCICIO 3 (Toggle)
+### se basa en un mecanismo el cual al darle clic abre la ventana donde esta un texto con informacion el cual hace una transicion.
+
+# index
+
+### La etiqueta <!DOCTYPE html> indica que el documento es un archivo HTML. Las etiquetas <html>, <head>, <meta>, <title>, <link> y <body> son algunas de las etiquetas que se utilizan para estructurar la página web y agregar información adicional, como el título y los estilos. La etiqueta <body> es donde se coloca todo el contenido visible de la página web.
+
+# script js
+
+### cuando se hace clic en el botón con la clase .toggleBtn, se agrega o se quita la clase .active del elemento HTML con la clase .container. Esto permite mostrar u ocultar el contenido dentro del contenedor.
+
+# css
+
+### Este es un código que se utiliza para dar estilo a una página web. Se utilizan diferentes selectores para aplicar estilos a elementos específicos de la página, como el cuerpo de la página, un contenedor y sus elementos internos. Los estilos incluyen propiedades como el color de fondo, la altura y el ancho, la posición, el tamaño de fuente, la opacidad y las transformaciones.
