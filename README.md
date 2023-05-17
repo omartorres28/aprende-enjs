@@ -51,12 +51,39 @@
 
 # index
 
-### La etiqueta <!DOCTYPE html> indica que el documento es un archivo HTML. Las etiquetas <html>, <head>, <meta>, <title>, <link> y <body> son algunas de las etiquetas que se utilizan para estructurar la página web y agregar información adicional, como el título y los estilos. La etiqueta <body> es donde se coloca todo el contenido visible de la página web.
+### La etiqueta  indica que el documento es un archivo HTML. Las etiquetas html, head, meta, title, link y body son algunas de las etiquetas que se utilizan para estructurar la página web y agregar información adicional, como el título y los estilos. La etiqueta body es donde se coloca todo el contenido visible de la página web.
+![toggle](img/tgl1.png "toggle")
 
 # script js
 
 ### cuando se hace clic en el botón con la clase .toggleBtn, se agrega o se quita la clase .active del elemento HTML con la clase .container. Esto permite mostrar u ocultar el contenido dentro del contenedor.
+![toggle](img/tgl2.png "toggle")
 
 # css
 
 ### Este es un código que se utiliza para dar estilo a una página web. Se utilizan diferentes selectores para aplicar estilos a elementos específicos de la página, como el cuerpo de la página, un contenedor y sus elementos internos. Los estilos incluyen propiedades como el color de fondo, la altura y el ancho, la posición, el tamaño de fuente, la opacidad y las transformaciones.
+![toggle](img/tgl3.png "toggle")
+
+
+# EJERCICIO 4 (DARK THEME)
+
+
+# Ejercicio 4 
+# Index
+### Este código es para una página web en español. Contiene etiquetas HTML que definen la estructura de la página, así como información importante como la hoja de estilos, el título de la página y la codificación utilizada. También hay un botón con un ícono que se puede hacer clic para activar una función y un archivo JavaScript vinculado a la página.
+[dark](img/dark1.png "dark")
+
+# Style(css,css.map,scss)
+## Los códigos anteriores son para una página web que tiene un botón que cambia de color y forma cuando se hace clic en él. Aquí te explico cómo funciona cada uno de los códigos:
+
+## HTML:
+
+### El código HTML define la estructura de la página y contiene etiquetas que definen el título, la hoja de estilos y el botón. La función del botón es activar una clase "active" en el cuerpo de la página y en el botón mismo.
+## CSS:
+
+### El código CSS define el estilo visual de la página, incluyendo el diseño del botón y el fondo de la página.La función del CSS es hacer que el botón cambie de color y forma cuando se activa la clase "active" en el cuerpo de la página y en el botón mismo.
+## JavaScript:
+
+### El código JavaScript define la funcionalidad del botón, permitiendo que se active la clase "active" en el cuerpo de la página y en el botón mismo cuando se hace clic en él. En resumen, estos códigos trabajan juntos para crear un botón interactivo que cambia de color y forma cuando se hace clic en él, y también cambia el fondo de la página.
+
+![dark](img/dark3.png "dark")
