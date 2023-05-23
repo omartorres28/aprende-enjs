@@ -87,3 +87,12 @@
 ### El código JavaScript define la funcionalidad del botón, permitiendo que se active la clase "active" en el cuerpo de la página y en el botón mismo cuando se hace clic en él. En resumen, estos códigos trabajan juntos para crear un botón interactivo que cambia de color y forma cuando se hace clic en él, y también cambia el fondo de la página.
 
 ![dark](img/dark3.png "dark")
+
+
+# Ejercicio 5 (menu desplegable)
+
+### El código CSS proporcionado es una herramienta útil para establecer la apariencia visual y la disposición de los elementos en una página web. El uso de un fondo degradado radial en el contenedor principal, junto con una cabecera con logotipo y barra de navegación, crea un diseño atractivo y fácil de usar. Además, la sección de contenido principal con título, párrafo y botón, junto con el slider de imágenes, permite mostrar información de manera efectiva y atractiva.
+
+### La inclusión de un pie de página con enlaces a redes sociales y estilos responsivos para adaptarse a diferentes tamaños de pantalla, asegura que la página web sea accesible y fácil de usar para los usuarios en cualquier dispositivo. Además, las consultas de medios permiten aplicar diferentes estilos según el ancho de la pantalla, lo que garantiza que la página web se vea bien en cualquier dispositivo, desde computadoras de escritorio hasta teléfonos móviles.
+
+![man](img/man.png "man")
